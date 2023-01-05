@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-05T15:17:37 IST" name="Default suite" finished-at="2023-01-05T15:18:30 IST" duration-ms="53859">
+    <groups>
+    </groups>
+    <test started-at="2023-01-05T15:17:37 IST" name="Default test" finished-at="2023-01-05T15:18:30 IST" duration-ms="53859">
+      <class name="FoodChainAutomation.test.CreateProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:FoodChainAutomation.test.CreateProductTest@2034b64c]" started-at="2023-01-05T15:17:37 IST" name="setUp" finished-at="2023-01-05T15:18:14 IST" duration-ms="37222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createProduct()[pri:0, instance:FoodChainAutomation.test.CreateProductTest@2034b64c]" started-at="2023-01-05T15:18:14 IST" name="createProduct" finished-at="2023-01-05T15:18:30 IST" duration-ms="16585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProduct -->
+      </class> <!-- FoodChainAutomation.test.CreateProductTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
